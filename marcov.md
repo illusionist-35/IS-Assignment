@@ -1,0 +1,1 @@
+A Markov Decision Process (MDP) is a mathematical framework used for modeling decision-making in situations where outcomes are partly random and partly controlled by an agent. It is widely used in reinforcement learning.

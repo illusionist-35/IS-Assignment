@@ -1,0 +1,1 @@
+Particle Swarm Optimization (PSO) is an optimization algorithm inspired by the social behavior of birds or fish. It works by having a group of “particles” (candidate solutions) move around in a search space, adjusting their positions based on their own experience and the best solution found by the group, to find the optimal answer.

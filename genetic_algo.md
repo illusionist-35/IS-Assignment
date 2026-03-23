@@ -1,0 +1,1 @@
+A genetic algorithm (GA) is an optimization technique inspired by natural evolution. It works by creating a population of possible solutions and iteratively improving them using processes similar to selection, crossover (recombination), and mutation, aiming to find the best solution based on a fitness function.
